@@ -1,5 +1,5 @@
 
-# 小数据：Some useful small datasets
+# 中文语料小数据：Some useful Chinese corpus datasets
 
 * 中国省市经纬度坐标：city_location/
 
