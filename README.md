@@ -17,3 +17,5 @@
 
 * 中文阅读理解数据sample：reading_comprehension_chi/
 
+* 中文图文问答数据（基于MSCOCO）：Chinese_Visual_QA_pairs/
+
